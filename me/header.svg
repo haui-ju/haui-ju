@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 440" width="1040" height="440" role="img" aria-label="Luis Fernando, systems engineer and full-stack developer">
+  <title>Luis Fernando</title>
+  <defs>
+    <clipPath id="card"><rect width="1040" height="440" rx="28"/></clipPath>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1040" height="440" fill="#070B14"/>
+    <circle cx="-30" cy="-36" r="210" fill="#FF2D87"/>
+    <circle cx="1110" cy="-48" r="130" fill="#3DDCFF"/>
+    <circle cx="40" cy="470" r="96" fill="#8B6CFF"/>
+    <circle cx="1000" cy="470" r="78" fill="#FFC857"/>
+    <circle cx="560" cy="132" r="8" fill="#FFC857" filter="url(#glow)">
+      <animate attributeName="r" values="5;12;5" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <g transform="translate(848,196)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/>
+        <circle r="136" fill="none" stroke="#FF2D87" stroke-width="2.5" stroke-dasharray="10 16"/>
+      </g>
+      <circle r="108" fill="none" stroke="#243049" stroke-width="1.5"/>
+      <circle r="74" fill="none" stroke="#243049" stroke-width="1.5"/>
+      <circle r="40" fill="none" stroke="#243049" stroke-width="1.5"/>
+      <circle r="34" fill="none" stroke="#3DDCFF" stroke-width="2">
+        <animate attributeName="r" values="34;56;34" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0;0.9" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+        <circle cx="136" cy="0" r="9" fill="#FF2D87" filter="url(#glow)"/>
+        <circle cx="-96" cy="96" r="7" fill="#FFC857"/>
+        <circle cx="0" cy="-136" r="6" fill="#3DDCFF"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+        <circle cx="108" cy="0" r="8" fill="#3DDCFF"/>
+        <circle cx="0" cy="108" r="8" fill="#8B6CFF"/>
+        <circle cx="-108" cy="0" r="6" fill="#FF2D87"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="20" to="380" dur="6s" repeatCount="indefinite"/>
+        <circle cx="74" cy="0" r="7" fill="#FFC857"/>
+        <circle cx="-52" cy="52" r="5" fill="#FF2D87"/>
+      </g>
+      <circle r="32" fill="#070B14" stroke="#FF2D87" stroke-width="3" filter="url(#glow)"/>
+      <text text-anchor="middle" dominant-baseline="central" fill="#F4F7FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">LF</text>
+    </g>
+
+    <text x="56" y="188" fill="#F4F7FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700">Luis Fernando</text>
+    <text x="58" y="236" fill="#C5D0E6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24">Systems and Computer Engineering</text>
+    <text x="58" y="276" fill="#3DDCFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">@haui-ju   /   full-stack   /   agents</text>
+    <line x1="58" y1="304" x2="430" y2="304" stroke="#FF2D87" stroke-width="5" stroke-linecap="round"/>
+
+    <rect x="0" y="348" width="1040" height="92" fill="#0A1020"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="16s" repeatCount="indefinite"/>
+      <text x="0" y="402" xml:space="preserve" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700"><tspan fill="#FF2D87">SYSTEMS ENGINEERING</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#3DDCFF">FULL-STACK</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#FFC857">AGENTS</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#8B6CFF">SHIPPING SOFTWARE</tspan><tspan fill="#5C6B8A">        </tspan></text>
+      <text x="800" y="402" xml:space="preserve" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700"><tspan fill="#FF2D87">SYSTEMS ENGINEERING</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#3DDCFF">FULL-STACK</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#FFC857">AGENTS</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#8B6CFF">SHIPPING SOFTWARE</tspan><tspan fill="#5C6B8A">        </tspan></text>
+    </g>
+  </g>
+</svg>
