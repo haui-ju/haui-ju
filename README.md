@@ -1,19 +1,22 @@
 <p align="center">
-  <img src="me/header.svg" alt="Luis Fernando — systems engineer, full-stack, agents" width="100%" />
+  <img src="me/header.svg" alt="Luis Fernando, software engineer in Lima" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=FF2D87&center=true&vCenter=true&width=820&height=48&lines=I+build+software+people+can+actually+use;LangGraph%2C+LangChain%2C+and+ChromaDB;Cursor%2C+Claude%2C+and+Gemini+in+the+loop;Jest+on+the+parts+that+can+break;Power+BI%2C+learned+on+purpose;Still+reading+poems+when+the+build+is+green" alt="Rotating lines about Luis Fernando" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=FF2D87&center=true&vCenter=true&width=820&height=48&lines=Software+engineer+in+Lima;Web%2C+SaaS%2C+and+3D;Next.js%2C+React%2C+Three.js;Realtime%2C+from+sockets+to+workers;NestJS%2C+Hono%2C+and+the+cloud+around+them;Cursor+and+Claude+in+the+loop" alt="Rotating lines about Luis Fernando" />
 </p>
 
 <p align="center">
-  <a href="mailto:luigfmp@gmail.com?subject=Hello%20from%20GitHub&body=Hi%20Luis%2C%20I%20found%20your%20GitHub%20profile.">
+  <a href="https://haui-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Web-070B14?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal site haui-dev" />
+  </a>
+  <a href="mailto:luigemp@gmail.com?subject=Hello%20from%20GitHub&body=Hi%20Luis%2C%20I%20found%20your%20GitHub%20profile.">
     <img src="https://img.shields.io/badge/Email-FF2D87?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Luis Fernando" />
   </a>
   <a href="https://www.linkedin.com/in/luis-fernando-melgar-pizarro">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  <a href="https://wa.me/958978370?text=Hi%20Luis%2C%20I%20found%20your%20GitHub%20profile.">
+  <a href="https://wa.me/51958978370?text=Hi%20Luis%2C%20I%20found%20your%20GitHub%20profile.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp chat" />
   </a>
   <a href="https://www.udemy.com/user/jujuli/">
@@ -24,45 +27,40 @@
   </a>
 </p>
 
-I study **Systems and Computer Engineering**, and I already ship: interfaces, APIs, and the deploy around them. The new layer is agents. **Cursor**, **Claude**, and **Gemini** stay open while I wire **Python**, **LangChain**, **LangGraph**, and **ChromaDB**. **Jest** watches what can break. **Power BI** is the dashboard skill I am learning for real, not as a sticker.
+Software engineer in Lima, three years into web, SaaS, and 3D. The day job is advanced frontend (Next.js, React, Three.js), realtime channels, and services on NestJS, Hono, and Cloudflare. PostgreSQL and MySQL underneath. Docker and CI around the deploy.
 
-## Now
+That work is at **Bluepoint AI**. **Cursor** and **Claude** sit in the loop. Off the sprint I poke at agent flows with LangGraph and Chroma, and I still read when the build is green.
 
-| Agents | Product | Proof |
-| --- | --- | --- |
-| LangGraph flows, retrieval with Chroma, Python services meant to run | React, Next.js, NestJS, Prisma, PostgreSQL | Jest around the fragile parts, and a slower pass on Power BI |
+Software Engineering at UTP, through 2026. Before that, a technical degree in web design and programming.
+
+<p align="center">
+  <img src="me/lanes.svg" alt="Three lanes: web, realtime, and cloud" width="100%" />
+</p>
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,php&perline=8" alt="Languages: JavaScript, TypeScript, Python, Java, PHP" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py&perline=8" alt="TypeScript, JavaScript, and Python" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,html,css,tailwind,vite&perline=8" alt="Frontend: React, Next.js, Angular, Astro, HTML, CSS, Tailwind, Vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,storybook&perline=8" alt="React, Next.js, Three.js, Tailwind, Vite, and Storybook" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,postgres,mysql,mongodb,redis,prisma,docker,linux,git,jest,figma,aws,cloudflare&perline=8" alt="Backend, data, and delivery tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,graphql,postgres,mysql,docker,aws,cloudflare,githubactions&perline=8" alt="Backend, data, and cloud tools" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor-FF2D87?style=for-the-badge" alt="Cursor" />
   <img src="https://img.shields.io/badge/Claude-8B6CFF?style=for-the-badge" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-3DDCFF?style=for-the-badge" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-FFC857?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-FF2D87?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/ChromaDB-8B6CFF?style=for-the-badge" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Power_BI-3DDCFF?style=for-the-badge" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Hono-3DDCFF?style=for-the-badge" alt="Hono" />
+  <img src="https://img.shields.io/badge/Zustand-FFC857?style=for-the-badge" alt="Zustand" />
+  <img src="https://img.shields.io/badge/WebSockets-FF2D87?style=for-the-badge" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/LangGraph-8B6CFF?style=for-the-badge" alt="LangGraph" />
 </p>
 
-## Selected work
-
-| | | |
-| --- | --- | --- |
-| **[smartLove](https://github.com/haui-ju/smartLove)** Luxury hotel: LED rooms, sensors, rooftop, bar. Atmosphere in the brief, software in the repo. | **[life-stream](https://github.com/haui-ju/life-stream)** Blood-donor management. Who can give, when, and a flow that stays traceable. | **[nuuk](https://github.com/haui-ju/nuuk)** A small web piece with a [live demo](https://luis-fernando-mp.github.io/nuuk/). |
-
-The rest lives in [the repositories](https://github.com/haui-ju?tab=repositories).
+More of the code is in [the repositories](https://github.com/haui-ju?tab=repositories). The longer story is on [haui-dev](https://haui-dev.vercel.app).
 
 ## GitHub
 
@@ -80,5 +78,5 @@ The rest lives in [the repositories](https://github.com/haui-ju?tab=repositories
 </p>
 
 <p align="center">
-  <img src="me/footer.svg" alt="Open to internships, freelance, and collabs" width="100%" />
+  <img src="me/footer.svg" alt="Lima, Peru. Still building." width="100%" />
 </p>

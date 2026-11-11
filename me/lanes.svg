@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 168" width="1040" height="168" role="img" aria-label="Web, realtime, and cloud">
+  <title>Web, realtime, and cloud</title>
+  <defs>
+    <clipPath id="lanes"><rect width="1040" height="168" rx="28"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g clip-path="url(#lanes)">
+    <rect width="1040" height="168" fill="#070B14"/>
+    <g transform="translate(188,78)">
+      <circle r="46" fill="none" stroke="#243049" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+        <circle cx="46" cy="0" r="6" fill="#FF2D87" filter="url(#glow)"/>
+      </g>
+      <circle r="16" fill="#070B14" stroke="#FF2D87" stroke-width="2"/>
+      <text y="78" text-anchor="middle" fill="#F4F7FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">WEB</text>
+    </g>
+    <g transform="translate(520,78)">
+      <circle r="46" fill="none" stroke="#243049" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="6s" repeatCount="indefinite"/>
+        <circle cx="46" cy="0" r="6" fill="#3DDCFF" filter="url(#glow)"/>
+        <circle cx="-46" cy="0" r="4" fill="#FFC857"/>
+      </g>
+      <circle r="16" fill="#070B14" stroke="#3DDCFF" stroke-width="2"/>
+      <text y="78" text-anchor="middle" fill="#F4F7FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">REALTIME</text>
+    </g>
+    <g transform="translate(852,78)">
+      <circle r="46" fill="none" stroke="#243049" stroke-width="1.5"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+        <circle cx="46" cy="0" r="6" fill="#8B6CFF" filter="url(#glow)"/>
+      </g>
+      <circle r="16" fill="#070B14" stroke="#FFC857" stroke-width="2"/>
+      <text y="78" text-anchor="middle" fill="#F4F7FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">CLOUD</text>
+    </g>
+  </g>
+</svg>

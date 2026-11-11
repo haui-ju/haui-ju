@@ -51,15 +51,15 @@
     </g>
 
     <text x="56" y="188" fill="#F4F7FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700">Luis Fernando</text>
-    <text x="58" y="236" fill="#C5D0E6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24">Systems and Computer Engineering</text>
-    <text x="58" y="276" fill="#3DDCFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">@haui-ju   /   full-stack   /   agents</text>
-    <line x1="58" y1="304" x2="430" y2="304" stroke="#FF2D87" stroke-width="5" stroke-linecap="round"/>
+    <text x="58" y="236" fill="#C5D0E6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24">Software engineer in Lima</text>
+    <text x="58" y="276" fill="#3DDCFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">@haui-ju   /   web, SaaS, and 3D</text>
+    <line x1="58" y1="304" x2="480" y2="304" stroke="#FF2D87" stroke-width="5" stroke-linecap="round"/>
 
     <rect x="0" y="348" width="1040" height="92" fill="#0A1020"/>
     <g>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="16s" repeatCount="indefinite"/>
-      <text x="0" y="402" xml:space="preserve" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700"><tspan fill="#FF2D87">SYSTEMS ENGINEERING</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#3DDCFF">FULL-STACK</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#FFC857">AGENTS</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#8B6CFF">SHIPPING SOFTWARE</tspan><tspan fill="#5C6B8A">        </tspan></text>
-      <text x="800" y="402" xml:space="preserve" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700"><tspan fill="#FF2D87">SYSTEMS ENGINEERING</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#3DDCFF">FULL-STACK</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#FFC857">AGENTS</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#8B6CFF">SHIPPING SOFTWARE</tspan><tspan fill="#5C6B8A">        </tspan></text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-720 0" dur="14s" repeatCount="indefinite"/>
+      <text x="0" y="402" xml:space="preserve" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700"><tspan fill="#FF2D87">SOFTWARE ENGINEER</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#3DDCFF">LIMA</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#FFC857">REALTIME</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#8B6CFF">WEB AND 3D</tspan><tspan fill="#5C6B8A">        </tspan></text>
+      <text x="720" y="402" xml:space="preserve" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700"><tspan fill="#FF2D87">SOFTWARE ENGINEER</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#3DDCFF">LIMA</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#FFC857">REALTIME</tspan><tspan fill="#5C6B8A">   /   </tspan><tspan fill="#8B6CFF">WEB AND 3D</tspan><tspan fill="#5C6B8A">        </tspan></text>
     </g>
   </g>
 </svg>
