@@ -40,24 +40,7 @@ Software Engineering at UTP, through 2026. Before that, a technical degree in we
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py&perline=8" alt="TypeScript, JavaScript, and Python" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,storybook&perline=8" alt="React, Next.js, Three.js, Tailwind, Vite, and Storybook" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,graphql,postgres,mysql,docker,aws,cloudflare,githubactions&perline=8" alt="Backend, data, and cloud tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor-FF2D87?style=for-the-badge" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude-8B6CFF?style=for-the-badge" alt="Claude" />
-  <img src="https://img.shields.io/badge/Hono-3DDCFF?style=for-the-badge" alt="Hono" />
-  <img src="https://img.shields.io/badge/Zustand-FFC857?style=for-the-badge" alt="Zustand" />
-  <img src="https://img.shields.io/badge/WebSockets-FF2D87?style=for-the-badge" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/LangGraph-8B6CFF?style=for-the-badge" alt="LangGraph" />
+  <img src="me/stack.svg" alt="Stack: TypeScript, React, Next.js, Three.js, NestJS, Hono, Postgres, AWS, Cloudflare, Cursor, Claude, and LangGraph" width="100%" />
 </p>
 
 More of the code is in [the repositories](https://github.com/haui-ju?tab=repositories). The longer story is on [haui-dev](https://haui-dev.vercel.app).
